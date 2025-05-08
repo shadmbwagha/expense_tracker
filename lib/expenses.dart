@@ -21,7 +21,7 @@ class _ExpensesState extends State<Expenses>{
       title: "Cinema", 
       amount: 15.69, 
       date: DateTime.now(), 
-      category: Category.food
+      category: Category.leisure
       )
   ];
   Widget build(BuildContext context) {
